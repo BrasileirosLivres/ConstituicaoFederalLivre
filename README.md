@@ -1,1 +1,3 @@
 # ConstituicaoFederalLivre
+
+Nós, Brasileiros, sob o entendimento de que todas as pessoas...
