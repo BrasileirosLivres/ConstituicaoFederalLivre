@@ -26,3 +26,11 @@ Fontes
 [2] - First Ammendement do Bill of Rights [link]
 
 [3] - O Leviathan, Thomas Hobbes [link]
+
+## Propostas de Melhorias
+
+Para a inclusão de propostas de melhorias abra um Issue com o Título indicando o Artigo e um resumo do problema e no campo Descrição uma proposta de modificação do Artigo e uma explicação do motivo pelo qual a sua modificação deveria ser incorporada, exemplo:
+
+Título: Artigo 1º - Erro de pontuação
+
+Descrição: ...
