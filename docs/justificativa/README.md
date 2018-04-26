@@ -1,4 +1,5 @@
 # Artigo
+```markdown
 "Verbatim do texto do artigo"
 
 # Objetivo
