@@ -19,5 +19,7 @@ Aqui é necessário substanciar a validade e o objetivo do artigo da constituiç
 
 Fontes
 [1] - Artigo 18 da declaração dos direitos humanos [link]
+
 [2] - First Ammendement do Bill of Rights [link]
+
 [3] - O Leviathan, Thomas Hobbes [link]
