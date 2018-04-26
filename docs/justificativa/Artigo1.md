@@ -14,7 +14,9 @@ Utilizar escrita científica tal qual em trabalhos acadêmicos com referências 
 
 # Rastreabilidade
 Indicar quais artigos ou documentos internacionais o texto atende ou se espelha, e.g.:
+
 1) Artigo 18º da Declaração dos Direitos Humanos,
+
 2) 1st Ammendment of the American Bill of Rights.
 
 # Fontes
