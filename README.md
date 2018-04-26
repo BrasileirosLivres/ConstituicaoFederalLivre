@@ -12,9 +12,11 @@ A substanciacao de cada artigo da constituição se localiza nos aquivos com o m
 O texto da substanciação deve seguir o seguinte formato:
 
 Artigo 1
+
 Texto do Artigo
 
 Substanciação
+
 Aqui é necessário substanciar a validade e o objetivo do artigo da constituição.
 
 Fontes
