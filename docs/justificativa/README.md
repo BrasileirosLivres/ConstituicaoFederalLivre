@@ -13,11 +13,15 @@ Utilizar escrita científica tal qual em trabalhos acadêmicos com referências 
 
 # Rastreabilidade
 Indicar quais artigos ou documentos internacionais o texto atende ou se espelha, e.g.:
+```markdown
 1) Artigo 18º da Declaração dos Direitos Humanos,
 2) 1st Ammendment of the American Bill of Rights.
+```
 
 # Fontes
 
 Citar fontes, tal qual em um artigo científico.
 
+```markdown
 [1] - Título da Fonte, Autor, mês e ano - [link]
+```
