@@ -15,5 +15,7 @@ Indicar quais artigos ou documentos internacionais o texto atende ou se espelha,
 2) 1st Ammendment of the American Bill of Rights.
 
 # Fontes
+
 Citar fontes, tal qual em um artigo científico.
+
 [1] - Título da Fonte, Autor, mês e ano - [link]
