@@ -11,3 +11,5 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 **Artigo 1º** - É assegurado ao indivíduo, brasileiro ou estrangeiro, o direito à liberdade de pensamento, de religião e de expressão, em público ou em privado, estando este sozinho ou em comunidade, respeitando no entanto a Vida, a Integridade Física, a Liberdade e a Propriedade Privada de outros indivíduos. - ([Justificativa](justificativa/Artigo1.md))
 
 **Artigo 2º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito de manter armas em sua propriedade privada, sendo a operação destas limitadas a legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo2.md))
+
+**Artigo 3º** - A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado a servir à sociedade como parte de sua pena ou acordo judicial. - ([Justificativa](justificativa/Artigo3.md))
