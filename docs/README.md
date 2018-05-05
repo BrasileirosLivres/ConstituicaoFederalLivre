@@ -18,9 +18,9 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 1. O flagrante de um crime em andamento,
 2. Uma confissão de crime por escrito com testemunho do advogado representando o indivíduo,
 3. A expedição de um mandado de prisão por autoridade competente do poder judiciário,
-4. Uma ação de caráter militar sancionada pelo Congresso Nacional. - ([Justificativa](justificativa/Artigo4.md))
+4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
 **Artigo 5º** - É vedado aos agentes públicos a busca e apreensão da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
-2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário. - ([Justificativa](justificativa/Artigo5.md))
+2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação e o escopo da autorização outorgada. - ([Justificativa](justificativa/Artigo5.md))
 
