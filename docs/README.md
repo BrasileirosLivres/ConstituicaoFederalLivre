@@ -22,5 +22,5 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 
 **Artigo 5º** - É vedado aos agentes públicos a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
-2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação e o escopo da autorização outorgada. - ([Justificativa](justificativa/Artigo5.md))
+2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo5.md))
 
