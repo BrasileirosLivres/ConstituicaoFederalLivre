@@ -25,7 +25,9 @@ Indicar quais artigos ou documentos internacionais o texto atende ou se espelha,
 
 5) Artigo 19º da Declaração dos Direitos Humanos,
 
-5) 1st Ammendment of the American Bill of Rights.
+6) 1st Ammendment of the American Bill of Rights,
+
+7) Artigo 72 da Constituição Brasileira de 1891.
 
 # Fontes
 Citar fontes, tal qual em um artigo científico.
