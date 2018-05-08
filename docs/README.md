@@ -14,8 +14,8 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 
 **Artigo 3º** - A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado a servir à sociedade como parte de sua pena ou acordo judicial. - ([Justificativa](justificativa/Artigo3.md))
 
-**Artigo 4º** - É vedado aos agentes públicos o cerceamento da liberdade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
-1. Um flagrante de um crime em andamento,
+**Artigo 4º** - É vedado ao Estado, através de seus agentes públicos, o cerceamento da liberdade de indivíduos sem culpa formada, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
+1. Um flagrante de crime em andamento,
 2. Uma confissão de crime por escrito com testemunho do advogado representando o indivíduo,
 3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário,
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
