@@ -24,4 +24,4 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
 2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo5.md))
 
-**Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público haja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo6.md))
+**Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo6.md))
