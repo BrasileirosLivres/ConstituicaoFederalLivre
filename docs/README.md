@@ -20,7 +20,7 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário,
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
-**Artigo 5º** - É vedado aos agentes públicos a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
+**Artigo 5º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
 2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo5.md))
 
