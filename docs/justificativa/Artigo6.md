@@ -1,4 +1,4 @@
-# Artigo 5º
+# Artigo 6º
 
 INSERIR TEXTO. - ([Retornar](https://brasileiroslivres.github.io/ConstituicaoFederalLivre/))
 
