@@ -20,8 +20,16 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário,
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
-**Artigo 5º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
-1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
-2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo5.md))
+**Artigo 5º** - Ao longo de um processo criminal, é assegurado aos acusados de terem cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, onde aos acusados se resguardam os seguintes direitos:
+a) de permanecer em silêncio para não prover provas contra sí,
+c) de ter um julgamento conduzido por autoridade ou colegiado imparcial do poder judiciário,
+d) de ter aconselhamento legal por um representante de sua confiança,
+e) de ter um juri formado por indivíduos imparciais,
+f) de ter sido informado do motivo do processo criminal em tempo hábil para a construção de sua defesa perante a acusação,
+g) de ter a sua disposição um processo compulsório de obtenção de testemunhas ao seu favor. - ([Justificativa](justificativa/Artigo5.md))
 
-**Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo6.md))
+**Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
+1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
+2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo6.md))
+
+**Artigo 7º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo7.md))
