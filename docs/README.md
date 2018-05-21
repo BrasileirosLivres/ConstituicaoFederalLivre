@@ -20,13 +20,14 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário,
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
-**Artigo 5º** - Ao longo de um processo criminal, é assegurado aos acusados de terem cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, onde aos acusados se resguardam os seguintes direitos:
-1. de permanecer em silêncio para não prover provas contra sí,
+**Artigo 5º** - Ao longo de um processo criminal, é assegurado ao acusado de ter cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, onde ao acusado se resguardam os seguintes direitos:
+1. de permaner em silêncio para não proverem provas contra sí,
 2. de ter um julgamento conduzido por autoridade ou colegiado imparcial do poder judiciário,
 3. de ter aconselhamento legal por um representante de sua confiança,
 4. de ter um juri formado por indivíduos imparciais,
 5. de ter sido informado do motivo do processo criminal em tempo hábil para a construção de sua defesa perante a acusação,
-6. de ter a sua disposição um processo compulsório de obtenção de testemunhas ao seu favor. - ([Justificativa](justificativa/Artigo5.md))
+6. de ter a sua disposição um processo compulsório de obtenção de testemunhas ao seu favor,
+7. de não ser julgado mais do que uma vez pela prática do mesmo crime. - ([Justificativa](justificativa/Artigo5.md))
 
 **Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
