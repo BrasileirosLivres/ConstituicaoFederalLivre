@@ -34,3 +34,9 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo6.md))
 
 **Artigo 7º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo7.md))
+
+**Artigo 8º** - Escrever sobre Propriedade Privada, livre trabalho, livre iniciativa. - ([Justificativa](justificativa/Artigo8.md))
+
+**Artigo 9º** - É vedado ao Estado desapropriar o indivíduo de seus pertences excetuando-se os seguintes casos:
+1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário,
+2. em caso de esforço de guerra para fins de proteção da soberania nacional, sendo mandatória a compensação financeira imediata pelo Estado para com o indivíduo que tenha sofrido a desapropriação. - ([Justificativa](justificativa/Artigo9.md))
