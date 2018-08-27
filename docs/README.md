@@ -35,7 +35,7 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 
 **Artigo 7º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo7.md))
 
-**Artigo 8º** - Escrever sobre Propriedade Privada, livre trabalho, livre iniciativa. - ([Justificativa](justificativa/Artigo8.md))
+**Artigo 8º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito à propriedade intelectual, material ou financeira decorrente de seu esforço laboral, em caráter individual ou em sociedade constituída livremente com outros indivíduos. - ([Justificativa](justificativa/Artigo8.md))
 
 **Artigo 9º** - É vedado ao Estado desapropriar o indivíduo de seus pertences excetuando-se os seguintes casos:
 1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário,
