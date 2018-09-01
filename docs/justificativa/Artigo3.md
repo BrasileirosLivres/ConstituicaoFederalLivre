@@ -17,5 +17,7 @@ Indicar quais artigos ou documentos internacionais o texto atende ou se espelha,
 
 2) Artigo 4º da Declaração dos Direitos Humanos,
 
+3) Artigo 13º da do Bill of Rights norte-americano,
+
 # Fontes
 Citar fontes, tal qual em um artigo científico.
