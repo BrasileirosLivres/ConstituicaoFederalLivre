@@ -12,7 +12,7 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 
 **Artigo 2º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito de manter armas em sua propriedade privada, sendo a operação destas limitadas a legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo2.md))
 
-**Artigo 3º** - A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado a servir à sociedade como parte de sua pena ou acordo judicial. - ([Justificativa](justificativa/Artigo3.md))
+**Artigo 3º** - A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado, por um colegiado imparcial e competente do poder judiciário, a servir à sociedade como parte de sua pena ou acordo judicial. - ([Justificativa](justificativa/Artigo3.md))
 
 **Artigo 4º** - É vedado ao Estado, através de seus agentes públicos, o cerceamento da liberdade de indivíduos sem culpa formada, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
 1. Um flagrante de crime em andamento,
@@ -27,7 +27,8 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 4. de ter um juri formado por indivíduos imparciais,
 5. de ter sido informado do motivo do processo criminal em tempo hábil para a construção de sua defesa perante a acusação,
 6. de ter a sua disposição um processo compulsório de obtenção de testemunhas ao seu favor,
-7. de não ser julgado mais do que uma vez pela prática do mesmo crime. - ([Justificativa](justificativa/Artigo5.md))
+7. de não ser condenado mais do que uma vez pela prática do mesmo crime
+8. de não ser condenado ou permancer condenado sem a existencia de uma lei que configure em crime o motivo pelo qual tenha sido acusado ou julgado. - ([Justificativa](justificativa/Artigo5.md))
 
 **Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
