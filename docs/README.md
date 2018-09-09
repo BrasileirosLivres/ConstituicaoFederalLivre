@@ -15,9 +15,9 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 **Artigo 3º** - A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado, por um colegiado imparcial e competente do poder judiciário, a servir à sociedade como parte de sua pena ou acordo judicial. - ([Justificativa](justificativa/Artigo3.md))
 
 **Artigo 4º** - É vedado ao Estado, através de seus agentes públicos, o cerceamento da liberdade de indivíduos sem culpa formada, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
-1. Um flagrante de crime em andamento,
-2. Uma confissão de crime por escrito com testemunho do advogado representando o indivíduo,
-3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário,
+1. Um flagrante de crime em andamento;
+2. Uma confissão de crime por escrito com testemunho do advogado representando o indivíduo;
+3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário;
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
 **Artigo 5º** - Ao longo de um processo criminal, é assegurado ao acusado de ter cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, onde ao acusado se resguardam os seguintes direitos:
@@ -41,5 +41,5 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 **Artigo 8º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito à propriedade intelectual, material ou financeira decorrente de seu esforço laboral individual ou em sociedade livremente constituída com outros indivíduos. - ([Justificativa](justificativa/Artigo8.md))
 
 **Artigo 9º** - É vedado ao Estado desapropriar o indivíduo de seus pertences excetuando-se os seguintes casos:
-1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário,
+1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário;
 2. em caso de esforço de guerra para fins de proteção da soberania nacional, sendo mandatória a compensação financeira imediata pelo Estado para com o indivíduo que tenha sofrido a desapropriação. - ([Justificativa](justificativa/Artigo9.md))
