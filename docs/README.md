@@ -21,18 +21,20 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
 **Artigo 5º** - Ao longo de um processo criminal, é assegurado ao acusado de ter cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, onde ao acusado se resguardam os seguintes direitos:
-1. de permaner em silêncio para não prover provas contra sí,
-2. de ter um julgamento conduzido por autoridade ou colegiado imparcial do poder judiciário,
-3. de ter aconselhamento legal por um representante de sua confiança,
-4. de ter um juri formado por indivíduos imparciais,
-5. de ter sido informado do motivo do processo criminal em tempo hábil para a construção de sua defesa perante a acusação,
-6. de ter a sua disposição um processo compulsório de obtenção de testemunhas ao seu favor,
-7. de não ser condenado mais do que uma vez pela prática do mesmo crime,
-8. de não ser condenado ou permancer condenado sem a existencia de uma lei que configure em crime o motivo pelo qual tenha sido acusado ou julgado. - ([Justificativa](justificativa/Artigo5.md))
+1. de permaner em silêncio para não prover provas contra sí;
+2. de ter um julgamento conduzido por autoridade ou colegiado imparcial do poder judiciário;
+3. de ter aconselhamento legal por um representante de sua confiança;
+4. de ter um juri formado por indivíduos imparciais;
+5. de ter sido informado do motivo do processo criminal em tempo hábil para a construção de sua defesa perante a acusação;
+6. de pleitear, junto a autoridade judicial competente, a concessão de liberdade provisória em troca de uma fiança criminal;
+7. de ter a sua disposição um processo compulsório de obtenção de testemunhas ao seu favor;
+8. de não ser condenado mais do que uma vez pela prática do mesmo crime;
+9. de não ser condenado ou permancer condenado sem a existencia de uma lei que configure em crime o motivo pelo qual tenha sido acusado ou julgado. - ([Justificativa](justificativa/Artigo5.md))
 
 **Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
-1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário,
-2. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo6.md))
+1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário;
+2. A concessão de um pedido de arbitramento de fiança que resulte em apreensão temporária da propriedade privada de um indivíduo, como parte de um processo criminal, por autoridade competente do poder judiciário;
+3. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo6.md))
 
 **Artigo 7º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo7.md))
 
