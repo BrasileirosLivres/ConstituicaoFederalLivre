@@ -5,15 +5,21 @@
 # Objetivo
 Garantir liberdade de pensamento e de expressão para todos os indivíduos.
 Garantir liberdade Religiosa a todos os indivíduos.
-Garantir os direitos fundamentais de um indivíduo, como a Vida, a Liberdade, a Integridade Física e a Integridade da Propriedade Privada.
+Garantir os direitos fundamentais de um indivíduo, como a Vida, a Liberdade, a Integridade Física, a Privacidade e a Integridade da Propriedade Privada.
 
 # Substanciação
-Aqui é necessário escrever a motivação por trás dos objetivos, isto é, dizer o porquê do artigo em questão ter sido escrito e o que poderia ocorrer caso o mesmo não existisse.
 
-Utilizar escrita científica tal qual em trabalhos acadêmicos com referências para fontes reconhecidas da literatura.
+As questões das liberdades individuais inalienáveis são a base da formação de uma sociedade moderna.
+A principal obra que inicia uma discussão mais acentuada sobre o tema vem de John Locke, filósofo Britânico, que inspirou diversos movimentos em prol da liberdade dos indivíduos sobre Estados tirânicos.
+
+O Bill of Rights Americano e o Common Law Britânico são fontes inesgotáveis de casos reais e práticos da evolução da interpretação de tais direitos inalienáveis.
+
+Um apanhado histórico de tais princípios pode ser obtido no seguinte endereço.
+https://law.justia.com/constitution/us/amendment-01/
+
 
 # Rastreabilidade
-Indicar quais artigos ou documentos internacionais o texto atende ou se espelha, e.g.:
+O artigo 1º deste texto constitucional implementa de forma total ou parcial os elementos descritos nos seguintes documentos.
 
 1) Artigo 3º da Declaração dos Direitos Humanos,
 
