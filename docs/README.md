@@ -43,3 +43,5 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 **Artigo 9º** - É vedado ao Estado desapropriar o indivíduo de seus pertences, excetuando-se os seguintes casos:
 1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário;
 2. em caso de esforço de guerra para fins de proteção da soberania nacional, sendo mandatória a compensação financeira imediata pelo Estado para com o indivíduo que tenha sofrido a desapropriação. - ([Justificativa](justificativa/Artigo9.md))
+
+**Artigo 10º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, todo e qualquer direito que não tenha sido concedido ao Estado por meio do texto desta Constituição. - ([Justificativa](justificativa/Artigo10.md))
