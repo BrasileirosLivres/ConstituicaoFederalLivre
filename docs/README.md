@@ -43,7 +43,7 @@ São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as
 **Artigo 8º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito à propriedade intelectual, material ou financeira decorrente de seu esforço laboral individual ou em sociedade livremente constituída com outros indivíduos. - ([Justificativa](justificativa/Artigo8.md))
 
 **Artigo 9º** - É vedado aos Estados e a União desapropriar o indivíduo de seus pertences, excetuando-se os seguintes casos:
-1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário;
+1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário em favor de uma das partes;
 2. em caso de esforço de guerra para fins de proteção da soberania nacional, sendo mandatória a compensação financeira imediata pelo Estado para com o indivíduo que tenha sofrido a desapropriação. - ([Justificativa](justificativa/Artigo9.md))
 
 **Artigo 10º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, todo e qualquer direito que não tenha sido concedido aos Estados ou a União por meio do texto desta Constituição. - ([Justificativa](justificativa/Artigo10.md))
