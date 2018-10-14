@@ -8,7 +8,7 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 
 # Seção I - Direitos do Indivíduo
 
-São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as pessoas nascidas ou naturalizadas nos Estados Unidos bem como todas àquelas que estejam sujeitas à jurisdição brasileira; sendo reservado aos cidadãos brasileiros, os direitos descritos no texto desta Constituição.
+São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as pessoas nascidas ou naturalizadas em nosso território bem como todas àquelas que estejam temporariamente sujeitas à jurisdição brasileira; sendo reservado aos cidadãos brasileiros os direitos descritos no texto desta Constituição.
 
 **Artigo 1º** - É assegurado ao indivíduo, brasileiro ou estrangeiro, o direito à liberdade de pensamento, de religião e de expressão, em público ou em privado, estando este sozinho ou em comunidade, respeitando no entanto a Vida, a Integridade Física, a Liberdade, a Propriedade Privada e a Privacidade de outros indivíduos. - ([Justificativa](justificativa/Artigo1.md))
 
