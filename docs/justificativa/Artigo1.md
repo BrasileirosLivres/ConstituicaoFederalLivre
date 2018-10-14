@@ -10,12 +10,11 @@ Garantir os direitos fundamentais de um indivíduo, como a Vida, a Liberdade, a 
 # Substanciação
 
 As questões das liberdades individuais inalienáveis são a base da formação de uma sociedade moderna.
-A principal obra que inicia uma discussão mais acentuada sobre o tema vem de John Locke, filósofo Britânico, que inspirou diversos movimentos em prol da liberdade dos indivíduos sobre Estados tirânicos.
+A principal obra que inicia uma discussão mais acentuada sobre o tema vem do filósofo britânico John Locke que inspirou diversos movimentos em prol da liberdade dos indivíduos sobre Estados tirânicos em seus tratados sobre as formas de governo[1].
 
 O Bill of Rights Americano e o Common Law Britânico são fontes inesgotáveis de casos reais e práticos da evolução da interpretação de tais direitos inalienáveis.
 
-Um apanhado histórico de tais princípios pode ser obtido no seguinte endereço.
-https://law.justia.com/constitution/us/amendment-01/
+Um apanhado histórico de tais princípios pode ser obtido no seguinte [endereço](https://law.justia.com/constitution/us/amendment-01/).
 
 
 # Rastreabilidade
@@ -36,4 +35,4 @@ O artigo 1º deste texto constitucional implementa de forma total ou parcial os 
 7) Artigo 72 da Constituição Brasileira de 1891.
 
 # Fontes
-Citar fontes, tal qual em um artigo científico.
+[1] - John Locke - Two Treatises of Government, 1689 - London. [Link](https://books.google.com/books?id=7kwUAAAAQAAJ&dq=editions:q2cKQ3eYrMIC&pg=PP7&hl=en#v=onepage&q&f=false).
