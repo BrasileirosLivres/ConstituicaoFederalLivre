@@ -14,13 +14,13 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 
 **Artigo 3º** - A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado, por um colegiado imparcial e competente do poder judiciário, a servir à sociedade como parte de sua pena ou acordo judicial. - ([Justificativa](justificativa/Artigo3.md))
 
-**Artigo 4º** - É vedado ao Estado, através de seus agentes públicos, o cerceamento da liberdade de indivíduos sem culpa formada, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
+**Artigo 4º** - É vedado aos Estados e a União, através de seus agentes públicos, o cerceamento da liberdade de indivíduos sem culpa formada, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
 1. Um flagrante de crime em andamento;
 2. Uma confissão de crime por escrito com testemunho do advogado representando o indivíduo;
 3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário;
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
-**Artigo 5º** - Ao longo de um processo criminal, é assegurado ao acusado de ter cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, onde ao acusado se resguardam os seguintes direitos:
+**Artigo 5º** - Ao longo de um processo criminal, é assegurado ao acusado de ter cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, sendo que ao acusado se resguardam os seguintes direitos:
 1. de permaner em silêncio para não prover provas contra sí;
 2. de ter um julgamento conduzido por autoridade ou colegiado imparcial do poder judiciário;
 3. de ter aconselhamento legal por um representante de sua confiança;
@@ -31,16 +31,16 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 8. de não ser condenado mais do que uma vez pela prática do mesmo crime;
 9. de não ser condenado ou permancer condenado sem a existencia de uma lei que configure em crime o motivo pelo qual tenha sido acusado ou julgado. - ([Justificativa](justificativa/Artigo5.md))
 
-**Artigo 6º** - É vedado ao Estado, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
+**Artigo 6º** - É vedado aos Estados e a União, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
 1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário;
 2. A concessão, por autoridade competente do poder judiciário, de um pedido de arbitramento de fiança que resulte em apreensão temporária da propriedade privada de um indivíduo como parte de um processo criminal;
 3. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo6.md))
 
-**Artigo 7º** - É vedado ao Estado, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo7.md))
+**Artigo 7º** - É vedado aos Estados e a União, através de seus agentes públicos, atentar contra a Vida, a Integridade Física ou Psicológica de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que o agente público aja em legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros. - ([Justificativa](justificativa/Artigo7.md))
 
 **Artigo 8º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito à propriedade intelectual, material ou financeira decorrente de seu esforço laboral individual ou em sociedade livremente constituída com outros indivíduos. - ([Justificativa](justificativa/Artigo8.md))
 
-**Artigo 9º** - É vedado ao Estado desapropriar o indivíduo de seus pertences, excetuando-se os seguintes casos:
+**Artigo 9º** - É vedado aos Estados e a União desapropriar o indivíduo de seus pertences, excetuando-se os seguintes casos:
 1. em caso de disputa entre um ou mais indivíduos onde ocorra decisão arbitrada por um colegiado imparcial e competente do poder judiciário;
 2. em caso de esforço de guerra para fins de proteção da soberania nacional, sendo mandatória a compensação financeira imediata pelo Estado para com o indivíduo que tenha sofrido a desapropriação. - ([Justificativa](justificativa/Artigo9.md))
 
