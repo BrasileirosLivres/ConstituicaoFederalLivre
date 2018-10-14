@@ -45,3 +45,5 @@ Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trou
 2. em caso de esforço de guerra para fins de proteção da soberania nacional, sendo mandatória a compensação financeira imediata pelo Estado para com o indivíduo que tenha sofrido a desapropriação. - ([Justificativa](justificativa/Artigo9.md))
 
 **Artigo 10º** - É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, todo e qualquer direito que não tenha sido concedido aos Estados ou a União por meio do texto desta Constituição. - ([Justificativa](justificativa/Artigo10.md))
+
+**Artigo 11º** - É vedado aos Estados e a União a criação de leis que venham a ampliar os deveres ou restringir os direitos dos indivíduos, brasileiros ou estrangeiros residentes em território nacional, que tenham sido firmados por esta Constituição. - ([Justificativa](justificativa/Artigo11.md))
