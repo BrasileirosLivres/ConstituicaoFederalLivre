@@ -50,5 +50,5 @@ São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as
 
 **Artigo 11º** - É vedado aos Estados e a União a criação de leis que venham a ampliar os deveres ou restringir os direitos dos indivíduos, brasileiros ou estrangeiros residentes em território nacional, que tenham sido firmados por esta Constituição. - ([Justificativa](justificativa/Artigo11.md))
 
-([Avançar para Seção II e III](docs/DeveresResponsabilidades/artigos.md)) **-> Deveres e Responsabilidades do Indivíduo**
+([Avançar para Seção II e III](..docs/DeveresResponsabilidades/artigos.md)) **-> Deveres e Responsabilidades do Indivíduo**
 
