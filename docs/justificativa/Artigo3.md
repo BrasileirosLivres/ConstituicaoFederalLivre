@@ -1,6 +1,6 @@
 # Artigo 3º
 
-A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado a servir à sociedade como parte de sua pena ou acordo judicial.. - ([Retornar](https://brasileiroslivres.github.io/ConstituicaoFederalLivre/))
+A prática de escravidão ou de trabalhos forçados não é permitida em território nacional ou em territórios sob a jurisdição do governo brasileiro, excetuando-se os casos onde o indivíduo tenha sido condenado a servir à sociedade como parte de sua pena ou acordo judicial.. - ([Retornar](DireitosDoIndividuo.md))
 
 # Objetivo
 Garantir a liberdade dos indivíduos.
