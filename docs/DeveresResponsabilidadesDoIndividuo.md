@@ -26,7 +26,7 @@
 
 **artigo 3º** - O cidadão brasileiro tem a responsabilidade de proteger e defender a vida de outros indivíduos. - ([Justificativa](justificativa/Artigo3.md))
 
-**artigo 4º** - O cidadão brasileiro tem a responsabilidade de se aperfeicoar como indivíduo no âmbito pessoal e profissional. - ([Justificativa](justificativa/Artigo4.md))
+**artigo 4º** - O cidadão brasileiro tem a responsabilidade de se aperfeiçoar como indivíduo no âmbito pessoal e profissional. - ([Justificativa](justificativa/Artigo4.md))
 
 **artigo 5º** - O cidadão brasileiro tem a responsabilidade de agregar valor para a economia do País através da participação no mercado de trabalho. - ([Justificativa](justificativa/Artigo5.md))
 
