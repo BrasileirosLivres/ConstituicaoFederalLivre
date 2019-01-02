@@ -1,6 +1,6 @@
 # Artigo 7º
 
-INSERIR TEXTO. - ([Retornar](https://brasileiroslivres.github.io/ConstituicaoFederalLivre/))
+INSERIR TEXTO. - ([Retornar](DireitosDoIndividuo.md))
 
 # Objetivo
 INSERIR TEXTO.
