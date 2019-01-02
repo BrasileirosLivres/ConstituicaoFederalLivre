@@ -1,6 +1,6 @@
-**<---** ([**Retornar para o Preâmbulo**](../docs/README.md))
+**<---** ([**Retornar para o Preâmbulo**](README.md))
 
-**<---** ([**Retornar para Seção I - Direitos do Indivíduo**](../docs/DireitosDoIndividuo.md))
+**<---** ([**Retornar para Seção I - Direitos do Indivíduo**](DireitosDoIndividuo.md))
 
 # Seção II - Deveres do Indivíduo
 
