@@ -1,3 +1,6 @@
+**--->** ([**Retornar para o Preâmbulo**](../docs/README.md))
+
+
 # Seção I - Direitos do Indivíduo
 
 São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as pessoas nascidas ou naturalizadas em nosso território bem como todas àquelas que estejam temporariamente sujeitas à jurisdição brasileira; sendo reservado aos cidadãos brasileiros os direitos descritos no texto desta Constituição.
@@ -42,4 +45,4 @@ São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as
 
 **Artigo 11º** - É vedado aos Estados e a União a criação de leis que venham a ampliar os deveres ou restringir os direitos dos indivíduos, brasileiros ou estrangeiros residentes em território nacional, que tenham sido firmados por esta Constituição. - ([Justificativa](justificativa/Artigo11.md))
 
-([**Avançar para Seção II e III - Deveres e Responsabilidades do Indivíduo**](../docs/DeveresResponsabilidades/artigos.md)) **--->**
+([**Avançar para Seção II e III - Deveres e Responsabilidades do Indivíduo**](../docs/DeveresResponsabilidadesDoIndividuo.md)) **--->**
