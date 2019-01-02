@@ -1,6 +1,6 @@
 # Artigo 2º
 
-É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito de manter armas em sua propriedade privada, sendo a operação destas limitadas a legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros.. - ([Retornar](DireitosDoIndividuo.md))
+É assegurado ao indivíduo, brasileiro ou estrangeiro residente em território nacional, o direito de manter armas em sua propriedade privada, sendo a operação destas limitadas a legítima defesa contra ameaça iminente da Vida ou Integridade Física, sua ou de terceiros.. - ([Retornar](../DireitosDoIndividuo.md))
 
 # Objetivo
 Garantir direito a auto-preservação.
