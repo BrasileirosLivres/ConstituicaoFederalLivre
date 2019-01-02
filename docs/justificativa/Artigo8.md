@@ -1,6 +1,6 @@
 # Artigo 8º
 
-INSERIR TEXTO. - ([Retornar](DireitosDoIndividuo.md))
+INSERIR TEXTO. - ([Retornar](../DireitosDoIndividuo.md))
 
 # Objetivo
 INSERIR TEXTO.
