@@ -6,7 +6,7 @@ Reconhecemos, no entanto, que o ser humano é imperfeito em suas virtudes e que 
 
 Com a intenção de depurar a nossa sociedade civil dos artifícios que nos trouxeram a uma condição de subserviência e dependência do Estado, nós os Brasileiros, subscrevemos este conjunto de leis com o intuito de forjarmos um novo ordenamento natural para nossa Nação a partir da repactuação e da Constituição da República dos Estados Unidos do Brasil.
 
-# Seção I - Direitos do Indivíduo [link](../docs/DireitosDoIndividuo.md))
+# Seção I - Direitos do Indivíduo ([link](../docs/DireitosDoIndividuo.md))
 
 São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as pessoas nascidas ou naturalizadas em nosso território bem como todas àquelas que estejam temporariamente sujeitas à jurisdição brasileira; sendo reservado aos cidadãos brasileiros os direitos descritos no texto desta Constituição.
 
