@@ -1,4 +1,4 @@
-**<---** ([**Retornar para Seção I - Direitos do Indivíduo**](../DireitosDoIndividuo.md))
+**<---** ([**Retornar para Seção I - Direitos do Indivíduo**](../docs/DireitosDoIndividuo.md))
 
 # Seção II - Deveres do Indivíduo
 
