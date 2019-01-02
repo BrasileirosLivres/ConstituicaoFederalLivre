@@ -1,4 +1,4 @@
-**--->** ([**Retornar para o Preâmbulo**](../docs/README.md))
+**<---** ([**Retornar para o Preâmbulo**](../docs/README.md))
 
 
 # Seção I - Direitos do Indivíduo
