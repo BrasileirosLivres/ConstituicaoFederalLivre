@@ -46,11 +46,11 @@ São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as
 **Artigo 11º** - É vedado aos Estados e a União a criação de leis que venham a ampliar os deveres ou restringir os direitos dos indivíduos, brasileiros ou estrangeiros residentes em território nacional, que tenham sido firmados por esta Constituição. - ([Justificativa](justificativa/Artigo11.md))
 
 **Artigo 12º** - É assegurado a todo o cidadão brasileiro ou naturalizado o direito de participar do processo democrático, por meio de alistamento eleitoral, exceto nos seguintes casos:
-a) For ou ter sido servidor público ou militar da ativa no momento do alistamento eleitoral ou a posteriori;
-b) For menor de 21 anos no momento do alistamento eleitoral;
-c) Estar temporariamente ou permanentemente condenado a perda parcial ou total de suas liberdades individuais como parte da conclusão de um processo judicial;
-d) Ter sido declarado inimputável por autoridade competente;
-e) Não ter concluído o ensino escolar básico.
+1. For ou ter sido servidor público ou militar da ativa no momento do alistamento eleitoral ou a posteriori;
+2. For menor de 21 anos no momento do alistamento eleitoral;
+3. Estar temporariamente ou permanentemente condenado a perda parcial ou total de suas liberdades individuais como parte da conclusão de um processo judicial;
+4. Ter sido declarado inimputável por autoridade competente;
+5. Não ter concluído o ensino escolar básico.
 ([Justificativa](justificativa/Artigo12.md))
 
 ([**Avançar para Seção II e III - Deveres e Responsabilidades do Indivíduo**](DeveresResponsabilidadesDoIndividuo.md)) **--->**
