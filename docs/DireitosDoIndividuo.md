@@ -29,7 +29,7 @@ São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as
 9. de não ser condenado ou permancer condenado sem a existencia de uma lei que configure em crime o motivo pelo qual tenha sido acusado ou julgado. - ([Justificativa](justificativa/Artigo5.md))
 
 **Artigo 6º** - É vedado aos Estados e a União, através de seus agentes públicos, a busca e apreensão temporária da propriedade privada, bem como a invasão da privacidade de indivíduos, brasileiros ou estrangeiros, excetuando-se os casos em que ocorrer:
-1. A expedição de um mandado de busca e apreensão por autoridade competente do poder judiciário;
+1. A expedição de um mandado de busca e apreensão por colegiado competente do poder judiciário;
 2. A concessão, por autoridade competente do poder judiciário, de um pedido de arbitramento de fiança que resulte em apreensão temporária da propriedade privada de um indivíduo como parte de um processo criminal;
 3. A expedição de uma autorização de quebra de sigilo da privacidade por autoridade competente do poder judiciário, constando a motivação, o escopo e a duração da autorização outorgada. - ([Justificativa](justificativa/Artigo6.md))
 
