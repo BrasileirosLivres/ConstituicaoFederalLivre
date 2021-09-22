@@ -14,7 +14,7 @@ São cidadãos dos Estados Unidos do Brasil e do Estado em que residem, todas as
 **Artigo 4º** - É vedado aos Estados e a União, através de seus agentes públicos, o cerceamento da liberdade de indivíduos sem culpa formada, brasileiros ou estrangeiros, excetuando-se os casos de prisão preventiva ou temporária em face de:
 1. Um flagrante de crime em andamento;
 2. Uma confissão de crime por escrito com testemunho do advogado representando o indivíduo;
-3. Um mandado de prisão, preventiva ou temporária, expedido por autoridade competente do poder judiciário;
+3. Um mandado de prisão, preventiva ou temporária, expedido por colegiado competente do poder judiciário;
 4. Uma ação de caráter militar sancionada pelo Poder Executivo, promulgada pelo Poder Legislativo e outorgada pelo Poder Judiciário. - ([Justificativa](justificativa/Artigo4.md))
 
 **Artigo 5º** - Ao longo de um processo criminal, é assegurado ao acusado de ter cometido um crime, um julgamento aberto ao público, a ser realizado na jurisdição onde o crime tenha sido cometido ou na esfera federal, sendo que ao acusado se resguardam os seguintes direitos:
